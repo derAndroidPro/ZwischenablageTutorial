@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Zwischenablage Tutorial</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="kopiertext">Auf dem YouTube Kanal "der Android Pro" kannst du lernen, wie du deine eigenen Android Apps programmieren kannst und noch vieles mehr zum Thema Android! Check den Kanal einfach mal aus: www.youtube.com/derandroidpro</string>
+
+</resources>
